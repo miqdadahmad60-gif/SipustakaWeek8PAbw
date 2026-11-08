@@ -1,0 +1,11 @@
+{
+    "name": "Loan",
+    "alias": "loan",
+    "description": "Modul Peminjaman (CRUD AJAX + upload file)",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Loan\\Providers\\LoanServiceProvider"
+    ],
+    "files": []
+}

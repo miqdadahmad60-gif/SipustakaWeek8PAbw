@@ -1,0 +1,16 @@
+{
+    "name": "nwidart/loan",
+    "description": "Modul Peminjaman SiPustaka",
+    "authors": [],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {}
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Loan\\": "app/"
+        }
+    }
+}

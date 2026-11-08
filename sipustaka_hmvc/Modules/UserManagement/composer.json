@@ -1,0 +1,16 @@
+{
+    "name": "nwidart/usermanagement",
+    "description": "Modul UserManagement SiPustaka",
+    "authors": [],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {}
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\UserManagement\\": "app/"
+        }
+    }
+}

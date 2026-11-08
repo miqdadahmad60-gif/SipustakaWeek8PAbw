@@ -1,0 +1,16 @@
+{
+    "name": "nwidart/book",
+    "description": "Modul Buku SiPustaka",
+    "authors": [],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {}
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Book\\": "app/"
+        }
+    }
+}
